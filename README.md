@@ -1,4 +1,4 @@
-# PAH-biodegradation
+# PAH biodegradation
 
 ### Brief introduction
 * Here, a PAH-degrading gene database was established, and a genome-centric phylogenetical distribution of PAH-catabolic genes in the NCBI database was investigated.
