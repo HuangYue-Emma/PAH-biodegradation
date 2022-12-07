@@ -8,6 +8,7 @@
   * [Diamond: Accelerated BLAST compatible local sequence aligner](https://github.com/bbuchfink/diamond)
   * [prodigal: Prodigal Gene Prediction Software](https://github.com/hyattpd/Prodigal)
   * [SeqKit: a cross-platform and ultrafast toolkit for FASTA/Q file manipulation](https://github.com/shenwei356/seqkit)
+  * [MAFFT: Align multiple amino acid or nucleotide sequences](https://github.com/GSLBiotech/mafft)
 
 #### Citing our paper
 ##### If you found this PAH-degrading database useful in your research, a citation would be appreciated!
